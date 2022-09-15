@@ -1,2 +1,2 @@
-The purpose of this project was to analyze the details of the most popular posts from social media outlets such as Instagram, Twitter, Tiktok, and Youtube and be able to sort through data with different criteria such as the posts made each year or by the number of likes. We used TinyDB as out NoSQL database.
+The purpose of this project was to analyze the details of the most popular posts from social media outlets and be able to sort through data with different criteria such as the posts made each year or by the number of likes, using TinyDB as our NoSQL database.
 When running this project, all the items commented out under the comment "#inserted items here" should be uncommented when it is first ran. Then, delete or comment out the code like before. 
